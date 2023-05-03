@@ -1,2 +1,2 @@
-# Maria Quntana
+# Maria Quintana React Porfolio Application
 
